@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">S설문</string>
+    <string name="url">http://www.bunyangin.com/?device=mobile</string>
+    <string name="place">http://www.bunyangin.com/</string>
+    <string name="domain">http://www.bunyangin.com/?device=mobile</string>
+    <string name="tel">010-8945-5430</string>
+</resources>
